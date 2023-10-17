@@ -498,7 +498,6 @@
 
 .card-testimonial {
     text-align: center;
-
 }
 
 .card-testimonial .card-avatar {
@@ -507,7 +506,7 @@
     height: 10rem;
 }
 
-.card-testimonial .card-quate cite {
+.card-testimonial .card-quote cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
