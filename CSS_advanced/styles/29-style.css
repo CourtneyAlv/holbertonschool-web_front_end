@@ -463,7 +463,7 @@
     padding: 0.5rem 1rem;
   }
 
-  .nab .nav-link::before {
+  .nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
