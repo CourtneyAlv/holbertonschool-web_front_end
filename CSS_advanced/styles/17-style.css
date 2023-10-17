@@ -429,7 +429,7 @@
       color: var(--color-primary);
   }
   
-  .class {
+  .section {
     padding-left: var(--section-padding);
     padding-right: var(--section-padding);
     padding-top: var(--section-padding);
